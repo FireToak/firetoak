@@ -1,4 +1,8 @@
-## Hi there 👋
+# Bonjour (ou bonsoir) et bienvenue sur mon profil ! 🍃
+Je m'appelle Louis, passionné et autodidacte dans le domaine de l'administration système. Actuellement, je prépare un BTS SIO (Services Informatiques au Organisations) au lycée Paul Louis Courrier.
+
+# Le commencement
+Il était une fois, un jeune homme prénommé Louis de 13 ans qui venait de recevoir son premier ordinateur portable. Louis était un jeune très curieux qui se demanda comment fonctionnaient Pronote et comment il pourrait avoir son propre Pronote. Alors, dans un élan de curiosité, Louis chercha frénétiquement sur Internet comment réaliser ce miracle. Il finit par trouver des magiciens qui donnaient le secret du miracle. Louis suivit scrupuleusement les indications des magiciens et… MIRACLE ! Il avait désormais un serveur Pronote dont il était le roi. C'est à ce moment-là qu'une longue histoire commença...
 
 <!--
 **FireToak/firetoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
